@@ -8,6 +8,12 @@ here is intentionally stubbed (prints + a timer that auto-completes) so you can 
 achievements. `meteo-crimetablet` handles the Services-app card, the cross-service / group /
 police locks, and the org gating for you.
 
+### Preview Images
+
+![Preview 1](https://r2.fivemanage.com/ND1ABtrhOCiEbMgp1LFCW/updates/update_meteo-crimetablet-demo_01.png)
+
+![Preview 2](https://r2.fivemanage.com/ND1ABtrhOCiEbMgp1LFCW/updates/update_meteo-crimetablet-demo_02.png)
+
 ## How it works
 
 Services are **self-registering plugins**. On start, this resource calls:
